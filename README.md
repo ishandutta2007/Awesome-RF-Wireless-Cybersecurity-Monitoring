@@ -65,7 +65,7 @@ Curated list of active, top-tier open-source projects for Software-Defined Radio
 
 Sorted in **descending order by GitHub stargazers count**:
 
-| 📦 Repository | ⭐ Stars | 🏷️ Category / Purpose | 💡 Key Highlights |
+| 📦 Repository | ⭐ GitHub_Stars | 🏷️ Category / Purpose | 💡 Key Highlights |
 | :--- | :---: | :--- | :--- |
 | **[bettercap/bettercap](https://github.com/bettercap/bettercap)** | [![Stars](https://img.shields.io/github/stars/bettercap/bettercap?style=social&color=white)](https://github.com/bettercap/bettercap/stargazers) | Wi-Fi / BLE / HID / Network Auditing | Complete Go-based Swiss Army knife framework for 802.11 beacon manipulation, BLE sniffing/spoofing, and 2.4 GHz wireless mousejacking reconnaissance. ⚡ |
 | **[justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)** | [![Stars](https://img.shields.io/github/stars/justcallmekoko/ESP32Marauder?style=social&color=white)](https://github.com/justcallmekoko/ESP32Marauder/stargazers) | Portable Hardware / ESP32 Firmware | Portable offensive and defensive firmware for ESP32 and Flipper Zero devices; captures PMKID/EAPOL frames, detects probes, and maps wireless presence. 👾 |
@@ -133,8 +133,8 @@ Contributions to keep this directory up-to-date and comprehensive are warmly wel
 1. 🍴 **Fork the repository** on GitHub.
 2. ✏️ **Add or modify** entries in `README.md`. Ensure that:
    - SaaS entries include accurate starting tier prices, specific free tier/trial limits, and company size/valuation benchmarks.
-   - Open-source projects include official repository links, star count badge syntax, and concise technical descriptions.
-3. 🗂️ **Keep sorting order** consistent (SaaS by company size, Open-Source by GitHub stars).
+   - Open-source projects include official repository links, Stars_Count badge syntax, and concise technical descriptions.
+3. 🗂️ **Keep sorting order** consistent (SaaS by company size, Open-Source by GitHub_Stars).
 4. 🚀 **Submit a pull request** with a brief summary of changes.
 
 ---
